@@ -1,0 +1,18 @@
+.team {
+    background-color: #f4f4fd; /* Світлий фон секції */
+}
+
+.team-title {
+    text-align: center;
+    font-size: 36px;
+    line-height: 1.11;
+    /* інші типографічні стилі за макетом */
+}
+
+.team-item {
+    background-color: #ffffff; /* Білий фон картки */
+}
+
+.team-name, .team-role {
+    text-align: center;
+}
